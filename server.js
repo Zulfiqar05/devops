@@ -15,4 +15,4 @@ app.listen(port, (err, data) => {
         console.log(`http://localhost:${port}`)
     }
 }
-)
+);
